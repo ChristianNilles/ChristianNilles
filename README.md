@@ -1,7 +1,6 @@
 ### ✌️Opaw, me chamo Christian Nilles
 
-- 🔭 Desenvolvendo em Python
-- 🌱 Aprendendo Java para sistema mobile
+- 🔭 Desenvolvendo Python/Java/JavaScript/Vue
 - 👯 Trabalho com pesquisa em automação
 - 📫 Como pode me encontrar? email: chrnilles@gmail.com
 
