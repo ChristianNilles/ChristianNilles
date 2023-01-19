@@ -1,6 +1,6 @@
 ### ✌️Opaw, me chamo Christian Nilles
 
-- 🔭 Desenvolvendo Python/Java/JavaScript/Vue
+- 🔭 Desenvolvendo Python/Java/JavaScript/NodeJS/Vue/MongoDB/PostgreSQL
 - 👯 Trabalho com pesquisa em automação
 - 📫 Como pode me encontrar? email: chrnilles@gmail.com
 
