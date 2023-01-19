@@ -1,7 +1,7 @@
 ### ✌️Opaw, me chamo Christian Nilles
 
-- 🔭 Desenvolvendo Python/Java/JavaScript/NodeJS/Vue/MongoDB/PostgreSQL
-- 👯 Trabalho com pesquisa em automação
+- 🔭 Desenvolvedor Junior
+- 👯 Trabalho com desenvolvimento e pesquisa em automação em inteligência artificial
 - 📫 Como pode me encontrar? email: chrnilles@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nilles-7424991b5/)
