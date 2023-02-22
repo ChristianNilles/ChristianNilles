@@ -1,4 +1,4 @@
-### ✌️Opaw, me chamo Christian Nilles
+### Christian Nilles
 
 - 🔭 Desenvolvedor Junior
 - 👯 Trabalho com desenvolvimento e pesquisa em automação em inteligência artificial
