@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou o Christian Nilles
 
-Sou desenvolvedor web com experiência em backend e frontend, entusiasta em automação e inteligência artificial. Atualmente atuo como desenvolvedor júnior, sempre em busca de aprender novas tecnologias e resolver problemas de forma criativa e eficiente.
+Sou desenvolvedor web com experiência em backend e frontend, entusiasta em desenvolvimento por componentes e micro-serviços. Atualmente atuo como desenvolvedor júnior, sempre em busca de aprender novas tecnologias e resolver problemas de forma criativa e eficiente.
 
 - 🎯 Foco em desenvolvimento web full stack
 - 🤖 Interesse por boas práticas de UI/UX e componentização
+- 🧱 Interesse em arquiteturas baseadas em microserviços
 - 📬 Contato: chrnilles@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nilles-7424991b5/)
