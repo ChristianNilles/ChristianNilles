@@ -3,11 +3,11 @@
 Sou desenvolvedor web com experiência em backend e frontend, tenho experiência na construção de aplicações modernas baseadas em componentes reutilizáveis e arquitetura de microserviços. Atualmente atuo como desenvolvedor júnior, sempre em busca de aprender novas tecnologias e resolver problemas de forma criativa e eficiente.
 
 - 🎯 Foco em desenvolvimento web full stack
+- 🎯 Foco em arquitetura baseada em microserviços
 - 🤖 Interesse por boas práticas de UI/UX e componentização
-- 🧱 Interesse em arquiteturas baseadas em microserviços
 - 📬 Contato: chrnilles@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nilles-7424991b5/)
+<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 
 ---
 
@@ -31,16 +31,18 @@ Sou desenvolvedor web com experiência em backend e frontend, tenho experiência
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
 </div>
 
-#### 🛢️ Bancos de Dados e Cache
+#### 🛢️ Bancos de Dados e ORMs
 <div style="display: inline_block">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
 </div>
 
 #### 🧰 Ferramentas e Outras Tecnologias
 <div style="display: inline_block">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" />
