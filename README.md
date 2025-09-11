@@ -1,10 +1,11 @@
 # 👋 Olá! Eu sou o Christian Nilles
 
-Sou desenvolvedor web com experiência em backend e frontend, tenho experiência na construção de aplicações modernas baseadas em componentes reutilizáveis e arquitetura de microserviços. Atualmente atuo como desenvolvedor júnior, sempre em busca de aprender novas tecnologias e resolver problemas de forma criativa e eficiente.
+Sou desenvolvedor web full stack, tenho experiência na construção de aplicações modernas baseadas em componentes reutilizáveis e arquitetura de microserviços. Atualmente atuo como desenvolvedor júnior, sempre em busca de aprender novas tecnologias e resolver problemas de forma criativa e eficiente.
 
-- 🎯 Foco em desenvolvimento web full stack
+- 🎯 Foco em engenharia de frontend
 - 🎯 Foco em arquitetura baseada em microserviços
 - 🤖 Interesse por boas práticas de UI/UX e componentização
+- 🌳 4y exp
 - 📬 Contato: chrnilles@gmail.com
 
 <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
