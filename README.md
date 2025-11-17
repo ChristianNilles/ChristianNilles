@@ -8,8 +8,6 @@ Sou desenvolvedor web full stack, tenho experiência na construção de aplicaç
 - 🌳 4y exp
 - 📬 Contato: chrnilles@gmail.com
 
-<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
